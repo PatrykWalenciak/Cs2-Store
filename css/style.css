@@ -4,8 +4,10 @@ body {
   background-color: rgb(243, 248, 215);
 }
 
-nav > ul {
+nav > ul,
+a {
   list-style-type: none;
+  text-decoration: none;
 }
 
 .logo {
