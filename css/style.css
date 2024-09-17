@@ -1,4 +1,10 @@
-header > nav > ul {
+body {
+  font-family: "Roboto" sans-serif;
+  color: black;
+  background-color: rgb(243, 248, 215);
+}
+
+nav > ul {
   list-style-type: none;
 }
 
