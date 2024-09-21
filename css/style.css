@@ -1,8 +1,10 @@
 body,
 a {
   font-family: "Roboto" sans-serif;
-  color: black;
-  background-color: rgb(243, 248, 215);
+  color: white;
+  background-image: url(/images/cs-background.PNG);
+  background-repeat: no-repeat;
+  background-size: 100% 600%;
 }
 
 nav > ul,
@@ -11,9 +13,14 @@ a {
   text-decoration: none;
 }
 
+nav {
+  padding: 20px 10px 20px;
+  text-align: center;
+}
+
 .logo {
   text-decoration: none;
-  color: black;
+  color: white;
   font-size: 36px;
   font-weight: 500;
 }
